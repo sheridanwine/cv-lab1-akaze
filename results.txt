@@ -1,739 +1,314 @@
 Results:
 good Image utyug0
-keypoints: 3912, descriptors: (3912, 61)
-Time: 0.376448869705
+keypoints: 500, descriptors: (500, 32)
+Time: 5.16618084908
 good Image utyug1
-keypoints: 8614, descriptors: (8614, 61)
-Time: 0.32986497879
+keypoints: 500, descriptors: (500, 32)
+Time: 29.4440610409
 good Image utyug2
-keypoints: 32824, descriptors: (32824, 61)
-Time: 0.94362783432
+keypoints: 500, descriptors: (500, 32)
+Time: 1.41484498978
 good Image utyug3
-keypoints: 8342, descriptors: (8342, 61)
-Time: 0.367152929306
+keypoints: 500, descriptors: (500, 32)
+Time: 6.37085413933
 good Image utyug4
-keypoints: 2047, descriptors: (2047, 61)
-Time: 0.225559949875
+keypoints: 500, descriptors: (500, 32)
+Time: 7.94104385376
 good Image utyug5
-keypoints: 8108, descriptors: (8108, 61)
-Time: 0.37376499176
+keypoints: 500, descriptors: (500, 32)
+Time: 17.783187151
 good Image utyug6
-keypoints: 3063, descriptors: (3063, 61)
-Time: 0.240332126617
+keypoints: 500, descriptors: (500, 32)
+Time: 8.16052389145
 good Image utyug7
-keypoints: 1986, descriptors: (1986, 61)
-Time: 0.217391014099
+keypoints: 500, descriptors: (500, 32)
+Time: 3.08362102509
 good Image utyug8
-keypoints: 16629, descriptors: (16629, 61)
-Time: 0.522645950317
+keypoints: 500, descriptors: (500, 32)
+Time: 12.0159561634
 good Image utyug9
-keypoints: 419, descriptors: (419, 61)
-Time: 0.172516822815
+keypoints: 356, descriptors: (356, 32)
+Time: 10.7053029537
 good Image utyug10
-keypoints: 4698, descriptors: (4698, 61)
-Time: 0.344727993011
+keypoints: 500, descriptors: (500, 32)
+Time: 1.07394194603
 good Image utyug11
-keypoints: 9165, descriptors: (9165, 61)
-Time: 0.491574048996
+keypoints: 500, descriptors: (500, 32)
+Time: 0.701236963272
 good Image utyug12
-keypoints: 9597, descriptors: (9597, 61)
-Time: 0.517323970795
+keypoints: 500, descriptors: (500, 32)
+Time: 0.414849996567
 good Image utyug13
-keypoints: 20645, descriptors: (20645, 61)
-Time: 0.672905921936
+keypoints: 500, descriptors: (500, 32)
+Time: 0.33022403717
 good Image utyug14
-keypoints: 10831, descriptors: (10831, 61)
-Time: 0.547093153
+keypoints: 500, descriptors: (500, 32)
+Time: 0.229933023453
 good Image utyug15
-keypoints: 235, descriptors: (235, 61)
-Time: 0.207041025162
+keypoints: 256, descriptors: (256, 32)
+Time: 0.18501996994
 good Image utyug16
-keypoints: 5615, descriptors: (5615, 61)
-Time: 0.393983125687
+keypoints: 500, descriptors: (500, 32)
+Time: 0.277225017548
 good Image utyug17
-keypoints: 8683, descriptors: (8683, 61)
-Time: 0.419158935547
+keypoints: 500, descriptors: (500, 32)
+Time: 0.223134040833
 good Image utyug18
-keypoints: 4448, descriptors: (4448, 61)
-Time: 0.367001056671
+keypoints: 500, descriptors: (500, 32)
+Time: 0.191613912582
 good Image utyug19
-keypoints: 26120, descriptors: (26120, 61)
-Time: 0.985747098923
+keypoints: 500, descriptors: (500, 32)
+Time: 0.367154836655
 good Image utyug20
-keypoints: 1388, descriptors: (1388, 61)
-Time: 0.194359064102
+keypoints: 469, descriptors: (469, 32)
+Time: 0.227986097336
 good Image utyug21
-keypoints: 4605, descriptors: (4605, 61)
-Time: 0.315849065781
+keypoints: 500, descriptors: (500, 32)
+Time: 0.212781906128
 good Image utyug22
-keypoints: 2235, descriptors: (2235, 61)
-Time: 0.334485054016
+keypoints: 500, descriptors: (500, 32)
+Time: 0.285279989243
 good Image utyug23
-keypoints: 12181, descriptors: (12181, 61)
-Time: 0.592307090759
+keypoints: 500, descriptors: (500, 32)
+Time: 0.204063892365
 good Image utyug24
-keypoints: 5836, descriptors: (5836, 61)
-Time: 0.341216087341
+keypoints: 500, descriptors: (500, 32)
+Time: 0.205978155136
 good Image utyug25
-keypoints: 25283, descriptors: (25283, 61)
-Time: 0.802796125412
+keypoints: 500, descriptors: (500, 32)
+Time: 0.198199033737
 good Image utyug26
-keypoints: 651, descriptors: (651, 61)
-Time: 0.218283891678
+keypoints: 404, descriptors: (404, 32)
+Time: 0.192471027374
 good Image utyug27
-keypoints: 8456, descriptors: (8456, 61)
-Time: 0.490299940109
+keypoints: 500, descriptors: (500, 32)
+Time: 0.201577186584
 good Image utyug28
-keypoints: 4592, descriptors: (4592, 61)
-Time: 0.314215898514
+keypoints: 500, descriptors: (500, 32)
+Time: 0.282115936279
 good Image utyug29
-keypoints: 31636, descriptors: (31636, 61)
-Time: 1.01886296272
+keypoints: 500, descriptors: (500, 32)
+Time: 1.26805400848
 good Image utyug30
-keypoints: 39302, descriptors: (39302, 61)
-Time: 1.06282114983
+keypoints: 500, descriptors: (500, 32)
+Time: 6.25861001015
 good Image utyug31
-keypoints: 4235, descriptors: (4235, 61)
-Time: 0.298900127411
+keypoints: 500, descriptors: (500, 32)
+Time: 7.18804812431
 good Image utyug32
-keypoints: 3259, descriptors: (3259, 61)
-Time: 0.270821094513
+keypoints: 500, descriptors: (500, 32)
+Time: 10.4783821106
 good Image utyug33
-keypoints: 4380, descriptors: (4380, 61)
-Time: 0.273093938828
+keypoints: 500, descriptors: (500, 32)
+Time: 1.09492588043
 good Image utyug34
-keypoints: 2976, descriptors: (2976, 61)
-Time: 0.241933822632
+keypoints: 500, descriptors: (500, 32)
+Time: 5.59393596649
 good Image utyug35
-keypoints: 3828, descriptors: (3828, 61)
-Time: 0.245846033096
+keypoints: 500, descriptors: (500, 32)
+Time: 1.70747113228
 good Image utyug36
-keypoints: 13486, descriptors: (13486, 61)
-Time: 0.451877117157
+keypoints: 500, descriptors: (500, 32)
+Time: 0.658946037292
 good Image utyug37
-keypoints: 14576, descriptors: (14576, 61)
-Time: 0.552368164062
+keypoints: 500, descriptors: (500, 32)
+Time: 0.541639089584
 good Image utyug38
-keypoints: 2504, descriptors: (2504, 61)
-Time: 0.23881983757
+keypoints: 500, descriptors: (500, 32)
+Time: 3.95631289482
 good Image utyug39
-keypoints: 6182, descriptors: (6182, 61)
-Time: 0.307003974915
+keypoints: 500, descriptors: (500, 32)
+Time: 1.25982999802
 good Image utyug40
-keypoints: 10819, descriptors: (10819, 61)
-Time: 0.397109985352
+keypoints: 500, descriptors: (500, 32)
+Time: 0.24569606781
 good Image utyug41
-keypoints: 15917, descriptors: (15917, 61)
-Time: 0.504642963409
+keypoints: 500, descriptors: (500, 32)
+Time: 1.7955288887
 good Image utyug42
-keypoints: 1082, descriptors: (1082, 61)
-Time: 0.208502054214
+keypoints: 500, descriptors: (500, 32)
+Time: 0.25456905365
 good Image utyug43
-keypoints: 10180, descriptors: (10180, 61)
-Time: 0.463900089264
+keypoints: 500, descriptors: (500, 32)
+Time: 0.556811094284
 good Image utyug44
-keypoints: 1797, descriptors: (1797, 61)
-Time: 0.228646993637
+keypoints: 500, descriptors: (500, 32)
+Time: 0.840749025345
 good Image utyug45
-keypoints: 25036, descriptors: (25036, 61)
-Time: 0.797117948532
+keypoints: 500, descriptors: (500, 32)
+Time: 0.446716070175
 good Image utyug46
-keypoints: 11388, descriptors: (11388, 61)
-Time: 0.502817153931
+keypoints: 500, descriptors: (500, 32)
+Time: 1.17900204659
 good Image utyug47
-keypoints: 7676, descriptors: (7676, 61)
-Time: 0.388876914978
+keypoints: 500, descriptors: (500, 32)
+Time: 0.463376045227
 good Image utyug48
-keypoints: 7808, descriptors: (7808, 61)
-Time: 0.373020887375
+keypoints: 500, descriptors: (500, 32)
+Time: 2.23993015289
 good Image utyug49
-keypoints: 8843, descriptors: (8843, 61)
-Time: 0.44174695015
+keypoints: 500, descriptors: (500, 32)
+Time: 1.66239714622
 good Image utyug50
-keypoints: 4457, descriptors: (4457, 61)
-Time: 0.306185007095
+keypoints: 500, descriptors: (500, 32)
+Time: 0.250968933105
 good Image utyug51
-keypoints: 1160, descriptors: (1160, 61)
-Time: 0.207624912262
+keypoints: 500, descriptors: (500, 32)
+Time: 0.288996934891
 good Image utyug52
-keypoints: 6973, descriptors: (6973, 61)
-Time: 0.346435070038
+keypoints: 500, descriptors: (500, 32)
+Time: 0.345950126648
 good Image utyug53
-keypoints: 3365, descriptors: (3365, 61)
-Time: 0.261725902557
+keypoints: 500, descriptors: (500, 32)
+Time: 0.325539112091
 good Image utyug54
-keypoints: 533, descriptors: (533, 61)
-Time: 0.174577951431
+keypoints: 335, descriptors: (335, 32)
+Time: 0.248224020004
 good Image utyug55
-keypoints: 5389, descriptors: (5389, 61)
-Time: 0.329467058182
+keypoints: 500, descriptors: (500, 32)
+Time: 0.273286104202
 good Image utyug56
-keypoints: 2106, descriptors: (2106, 61)
-Time: 0.212240934372
+keypoints: 500, descriptors: (500, 32)
+Time: 0.211196899414
 good Image utyug57
-keypoints: 16133, descriptors: (16133, 61)
-Time: 0.48739695549
+keypoints: 500, descriptors: (500, 32)
+Time: 0.223845005035
 good Image utyug58
-keypoints: 4409, descriptors: (4409, 61)
-Time: 0.267326831818
+keypoints: 500, descriptors: (500, 32)
+Time: 0.242280006409
 good Image utyug59
-keypoints: 9598, descriptors: (9598, 61)
-Time: 0.409372091293
+keypoints: 500, descriptors: (500, 32)
+Time: 0.205122947693
 good Image utyug60
-keypoints: 7915, descriptors: (7915, 61)
-Time: 0.36869597435
+keypoints: 500, descriptors: (500, 32)
+Time: 0.272011995316
 good Image utyug61
-keypoints: 2454, descriptors: (2454, 61)
-Time: 0.241992950439
+keypoints: 500, descriptors: (500, 32)
+Time: 0.283881187439
 good Image utyug62
-keypoints: 3891, descriptors: (3891, 61)
-Time: 0.260042190552
+keypoints: 500, descriptors: (500, 32)
+Time: 0.227739095688
 good Image utyug63
-keypoints: 5133, descriptors: (5133, 61)
-Time: 0.273656845093
+keypoints: 500, descriptors: (500, 32)
+Time: 0.270931005478
 good Image utyug64
-keypoints: 8974, descriptors: (8974, 61)
-Time: 0.362743139267
+keypoints: 500, descriptors: (500, 32)
+Time: 4.89817404747
 good Image utyug65
-keypoints: 3804, descriptors: (3804, 61)
-Time: 0.261248826981
+keypoints: 500, descriptors: (500, 32)
+Time: 0.277068853378
 good Image utyug66
-keypoints: 2519, descriptors: (2519, 61)
-Time: 0.246159076691
+keypoints: 500, descriptors: (500, 32)
+Time: 0.288397073746
 good Image utyug67
-keypoints: 2472, descriptors: (2472, 61)
-Time: 0.245064020157
+keypoints: 500, descriptors: (500, 32)
+Time: 0.340946912766
 good Image utyug68
-keypoints: 6908, descriptors: (6908, 61)
-Time: 0.348168849945
+keypoints: 500, descriptors: (500, 32)
+Time: 0.441386938095
 good Image utyug69
-keypoints: 4704, descriptors: (4704, 61)
-Time: 0.279213190079
+keypoints: 500, descriptors: (500, 32)
+Time: 1.46163392067
 good Image utyug70
-keypoints: 5255, descriptors: (5255, 61)
-Time: 0.277667999268
+keypoints: 500, descriptors: (500, 32)
+Time: 0.313431978226
 good Image utyug71
-keypoints: 2025, descriptors: (2025, 61)
-Time: 0.203266143799
+keypoints: 500, descriptors: (500, 32)
+Time: 0.338660001755
 good Image utyug72
-keypoints: 7640, descriptors: (7640, 61)
-Time: 0.357331037521
+keypoints: 500, descriptors: (500, 32)
+Time: 0.438759088516
 good Image utyug73
-keypoints: 3901, descriptors: (3901, 61)
-Time: 0.296409845352
+keypoints: 500, descriptors: (500, 32)
+Time: 0.33827996254
 good Image utyug74
-keypoints: 6897, descriptors: (6897, 61)
-Time: 0.355099916458
+keypoints: 500, descriptors: (500, 32)
+Time: 0.233868122101
 good Image utyug75
-keypoints: 1744, descriptors: (1744, 61)
-Time: 0.375864028931
+keypoints: 500, descriptors: (500, 32)
+Time: 0.250448942184
 good Image utyug76
-keypoints: 9842, descriptors: (9842, 61)
-Time: 0.446221113205
+keypoints: 500, descriptors: (500, 32)
+Time: 0.555469989777
 good Image utyug77
-keypoints: 9593, descriptors: (9593, 61)
-Time: 0.402886152267
+keypoints: 500, descriptors: (500, 32)
+Time: 0.270988941193
 good Image utyug78
-keypoints: 2745, descriptors: (2745, 61)
-Time: 0.236939907074
+keypoints: 500, descriptors: (500, 32)
+Time: 0.18989109993
 good Image utyug79
-keypoints: 7870, descriptors: (7870, 61)
-Time: 0.347338914871
+keypoints: 500, descriptors: (500, 32)
+Time: 0.269733905792
 good Image utyug80
-keypoints: 7665, descriptors: (7665, 61)
-Time: 0.389528989792
+keypoints: 500, descriptors: (500, 32)
+Time: 2.69165492058
 good Image utyug81
-keypoints: 2480, descriptors: (2480, 61)
-Time: 0.240878820419
+keypoints: 500, descriptors: (500, 32)
+Time: 0.901520967484
 good Image utyug82
-keypoints: 5787, descriptors: (5787, 61)
-Time: 0.321160078049
+keypoints: 500, descriptors: (500, 32)
+Time: 0.253709793091
 good Image utyug83
-keypoints: 5006, descriptors: (5006, 61)
-Time: 0.293825149536
+keypoints: 500, descriptors: (500, 32)
+Time: 0.223927021027
 good Image utyug84
-keypoints: 11726, descriptors: (11726, 61)
-Time: 0.44889998436
+keypoints: 500, descriptors: (500, 32)
+Time: 0.256105899811
 good Image utyug85
-keypoints: 16601, descriptors: (16601, 61)
-Time: 0.526640176773
+keypoints: 500, descriptors: (500, 32)
+Time: 0.266035795212
 good Image utyug86
-keypoints: 2691, descriptors: (2691, 61)
-Time: 0.229079961777
+keypoints: 500, descriptors: (500, 32)
+Time: 0.258167982101
 good Image utyug87
-keypoints: 7708, descriptors: (7708, 61)
-Time: 0.354892015457
+keypoints: 500, descriptors: (500, 32)
+Time: 0.236289978027
 good Image utyug88
-keypoints: 1119, descriptors: (1119, 61)
-Time: 0.244074106216
+keypoints: 184, descriptors: (184, 32)
+Time: 0.214714050293
 good Image utyug89
-keypoints: 2764, descriptors: (2764, 61)
-Time: 0.263978004456
+keypoints: 500, descriptors: (500, 32)
+Time: 0.26583981514
 good Image utyug90
-keypoints: 5634, descriptors: (5634, 61)
-Time: 0.344649076462
+keypoints: 500, descriptors: (500, 32)
+Time: 0.273851156235
 good Image utyug91
-keypoints: 9881, descriptors: (9881, 61)
-Time: 0.448394060135
+keypoints: 500, descriptors: (500, 32)
+Time: 0.217639923096
 good Image utyug92
-keypoints: 1125, descriptors: (1125, 61)
-Time: 0.230953931808
+keypoints: 500, descriptors: (500, 32)
+Time: 0.232480049133
 good Image utyug93
-keypoints: 15363, descriptors: (15363, 61)
-Time: 0.528678894043
+keypoints: 500, descriptors: (500, 32)
+Time: 0.23955988884
 good Image utyug94
-keypoints: 1317, descriptors: (1317, 61)
-Time: 0.206556081772
+keypoints: 470, descriptors: (470, 32)
+Time: 0.263993024826
 good Image utyug95
-keypoints: 6244, descriptors: (6244, 61)
-Time: 0.318776845932
+keypoints: 500, descriptors: (500, 32)
+Time: 0.233685970306
 good Image utyug96
-keypoints: 17204, descriptors: (17204, 61)
-Time: 0.61683011055
+keypoints: 500, descriptors: (500, 32)
+Time: 0.229342937469
 good Image utyug97
-keypoints: 24574, descriptors: (24574, 61)
-Time: 0.788112163544
+keypoints: 500, descriptors: (500, 32)
+Time: 0.21430516243
 good Image utyug98
-keypoints: 28643, descriptors: (28643, 61)
-Time: 0.85178899765
+keypoints: 500, descriptors: (500, 32)
+Time: 0.421221017838
 good Image utyug99
-keypoints: 1004, descriptors: (1004, 61)
-Time: 0.200997114182
+keypoints: 344, descriptors: (344, 32)
+Time: 0.285055160522
 good Image utyug100
-keypoints: 2650, descriptors: (2650, 61)
-Time: 0.2380828857good Image pingvin0
-keypoints: 690, descriptors: (690, 61)
-Time: 0.0238671302795
-good Image pingvin1
-keypoints: 1774, descriptors: (1774, 61)
-Time: 0.0248301029205
-good Image pingvin2
-keypoints: 1107, descriptors: (1107, 61)
-Time: 0.0199980735779
-good Image pingvin3
-keypoints: 218, descriptors: (218, 61)
-Time: 0.0175590515137
-good Image pingvin4
-keypoints: 1096, descriptors: (1096, 61)
-Time: 0.0202388763428
-good Image pingvin5
-keypoints: 610, descriptors: (610, 61)
-Time: 0.0219559669495
-good Image pingvin6
-keypoints: 284, descriptors: (284, 61)
-Time: 0.0178039073944
-good Image pingvin7
-keypoints: 947, descriptors: (947, 61)
-Time: 0.0202119350433
-good Image pingvin8
-keypoints: 1557, descriptors: (1557, 61)
-Time: 0.0207581520081
-good Image pingvin9
-keypoints: 176, descriptors: (176, 61)
-Time: 0.0231828689575
-good Image pingvin10
-keypoints: 265, descriptors: (265, 61)
-Time: 0.0193588733673
-good Image pingvin11
-keypoints: 157, descriptors: (157, 61)
-Time: 0.01775598526
-good Image pingvin12
-keypoints: 969, descriptors: (969, 61)
-Time: 0.0216808319092
-good Image pingvin13
-keypoints: 970, descriptors: (970, 61)
-Time: 0.0199761390686
-good Image pingvin14
-keypoints: 571, descriptors: (571, 61)
-Time: 0.0212619304657
-good Image pingvin15
-keypoints: 231, descriptors: (231, 61)
-Time: 0.0202758312225
-good Image pingvin16
-keypoints: 180, descriptors: (180, 61)
-Time: 0.024393081665
-good Image pingvin17
-keypoints: 716, descriptors: (716, 61)
-Time: 0.0194668769836
-good Image pingvin18
-keypoints: 180, descriptors: (180, 61)
-Time: 0.0207979679108
-good Image pingvin19
-keypoints: 571, descriptors: (571, 61)
-Time: 0.0237128734589
-good Image pingvin20
-keypoints: 682, descriptors: (682, 61)
-Time: 0.0254669189453
-good Image pingvin21
-keypoints: 706, descriptors: (706, 61)
-Time: 0.0200340747833
-good Image pingvin22
-keypoints: 218, descriptors: (218, 61)
-Time: 0.0174279212952
-good Image pingvin23
-keypoints: 410, descriptors: (410, 61)
-Time: 0.0184891223907
-good Image pingvin24
-keypoints: 509, descriptors: (509, 61)
-Time: 0.0218498706818
-good Image pingvin25
-keypoints: 1159, descriptors: (1159, 61)
-Time: 0.022262096405
-good Image pingvin26
-keypoints: 374, descriptors: (374, 61)
-Time: 0.0204000473022
-good Image pingvin27
-keypoints: 610, descriptors: (610, 61)
-Time: 0.0195500850677
-good Image pingvin28
-keypoints: 509, descriptors: (509, 61)
-Time: 0.0189418792725
-good Image pingvin29
-keypoints: 374, descriptors: (374, 61)
-Time: 0.0199568271637
-good Image pingvin30
-keypoints: 362, descriptors: (362, 61)
-Time: 0.0183258056641
-good Image pingvin31
-keypoints: 706, descriptors: (706, 61)
-Time: 0.0196001529694
-good Image pingvin32
-keypoints: 370, descriptors: (370, 61)
-Time: 0.0191650390625
-good Image pingvin33
-keypoints: 362, descriptors: (362, 61)
-Time: 0.0183300971985
-good Image pingvin34
-keypoints: 370, descriptors: (370, 61)
-Time: 0.01979804039
-good Image pingvin35
-keypoints: 228, descriptors: (228, 61)
-Time: 0.0198857784271
-good Image pingvin36
-keypoints: 199, descriptors: (199, 61)
-Time: 0.0195140838623
-good Image pingvin37
-keypoints: 1253, descriptors: (1253, 61)
-Time: 0.0231831073761
-good Image pingvin38
-keypoints: 264, descriptors: (264, 61)
-Time: 0.0191469192505
-good Image pingvin39
-keypoints: 245, descriptors: (245, 61)
-Time: 0.0190560817719
-good Image pingvin40
-keypoints: 177, descriptors: (177, 61)
-Time: 0.0202169418335
-good Image pingvin41
-keypoints: 601, descriptors: (601, 61)
-Time: 0.0187468528748
-good Image pingvin42
-keypoints: 187, descriptors: (187, 61)
-Time: 0.0256950855255
-good Image pingvin43
-keypoints: 245, descriptors: (245, 61)
-Time: 0.0186679363251
-good Image pingvin44
-keypoints: 947, descriptors: (947, 61)
-Time: 0.0202209949493
-good Image pingvin45
-keypoints: 706, descriptors: (706, 61)
-Time: 0.0206079483032
-good Image pingvin46
-keypoints: 1393, descriptors: (1393, 61)
-Time: 0.0233478546143
-good Image pingvin47
-keypoints: 284, descriptors: (284, 61)
-Time: 0.0223560333252
-good Image pingvin48
-keypoints: 400, descriptors: (400, 61)
-Time: 0.0238418579102
-good Image pingvin49
-keypoints: 1049, descriptors: (1049, 61)
-Time: 0.0232269763947
-good Image pingvin50
-keypoints: 1066, descriptors: (1066, 61)
-Time: 0.0229408740997
-good Image pingvin51
-keypoints: 187, descriptors: (187, 61)
-Time: 0.0194549560547
-good Image pingvin52
-keypoints: 239, descriptors: (239, 61)
-Time: 0.0198321342468
-good Image pingvin53
-keypoints: 177, descriptors: (177, 61)
-Time: 0.0218288898468
-good Image pingvin54
-keypoints: 564, descriptors: (564, 61)
-Time: 0.0278749465942
-good Image pingvin55
-keypoints: 809, descriptors: (809, 61)
-Time: 0.0222809314728
-good Image pingvin56
-keypoints: 611, descriptors: (611, 61)
-Time: 0.020919084549
-good Image pingvin57
-keypoints: 144, descriptors: (144, 61)
-Time: 0.0192451477051
-good Image pingvin58
-keypoints: 870, descriptors: (870, 61)
-Time: 0.0226209163666
-good Image pingvin59
-keypoints: 848, descriptors: (848, 61)
-Time: 0.0216319561005
-good Image pingvin60
-keypoints: 368, descriptors: (368, 61)
-Time: 0.0216178894043
-good Image pingvin61
-keypoints: 1418, descriptors: (1418, 61)
-Time: 0.0210299491882
-good Image pingvin62
-keypoints: 1096, descriptors: (1096, 61)
-Time: 0.0245101451874
-good Image pingvin63
-keypoints: 311, descriptors: (311, 61)
-Time: 0.019965171814
-good Image pingvin64
-keypoints: 601, descriptors: (601, 61)
-Time: 0.0203399658203
-good Image pingvin65
-keypoints: 456, descriptors: (456, 61)
-Time: 0.0202128887177
-good Image pingvin66
-keypoints: 176, descriptors: (176, 61)
-Time: 0.0287160873413
-good Image pingvin67
-keypoints: 231, descriptors: (231, 61)
-Time: 0.0226368904114
-good Image pingvin68
-keypoints: 239, descriptors: (239, 61)
-Time: 0.0241620540619
-good Image pingvin69
-keypoints: 410, descriptors: (410, 61)
-Time: 0.0222380161285
-good Image pingvin70
-keypoints: 157, descriptors: (157, 61)
-Time: 0.0213150978088
-good Image pingvin71
-keypoints: 218, descriptors: (218, 61)
-Time: 0.0242450237274
-good Image pingvin72
-keypoints: 231, descriptors: (231, 61)
-Time: 0.0219459533691
-good Image pingvin73
-keypoints: 870, descriptors: (870, 61)
-Time: 0.0248258113861
-good Image pingvin74
-keypoints: 478, descriptors: (478, 61)
-Time: 0.0220839977264
-good Image pingvin75
-keypoints: 508, descriptors: (508, 61)
-Time: 0.0266242027283
-good Image pingvin76
-keypoints: 883, descriptors: (883, 61)
-Time: 0.0260260105133
-good Image pingvin77
-keypoints: 368, descriptors: (368, 61)
-Time: 0.0235280990601
-good Image pingvin78
-keypoints: 456, descriptors: (456, 61)
-Time: 0.0215229988098
-good Image pingvin79
-keypoints: 176, descriptors: (176, 61)
-Time: 0.0263800621033
-good Image pingvin80
-keypoints: 1259, descriptors: (1259, 61)
-Time: 0.0256350040436
-good Image pingvin81
-keypoints: 1060, descriptors: (1060, 61)
-Time: 0.0225548744202
-good Image pingvin82
-keypoints: 222, descriptors: (222, 61)
-Time: 0.0224411487579
-good Image pingvin83
-keypoints: 162, descriptors: (162, 61)
-Time: 0.0218379497528
-good Image pingvin84
-keypoints: 883, descriptors: (883, 61)
-Time: 0.0258319377899
-good Image pingvin85
-keypoints: 86, descriptors: (86, 61)
-Time: 0.0186250209808
-good Image pingvin86
-keypoints: 120, descriptors: (120, 61)
-Time: 0.0181360244751
-good Image pingvin87
-keypoints: 374, descriptors: (374, 61)
-Time: 0.0257952213287
-good Image pingvin88
-keypoints: 176, descriptors: (176, 61)
-Time: 0.0229940414429
-good Image pingvin89
-keypoints: 1393, descriptors: (1393, 61)
-Time: 0.0270960330963
-good Image pingvin90
-keypoints: 1049, descriptors: (1049, 61)
-Time: 0.022036075592
-good Image pingvin91
-keypoints: 969, descriptors: (969, 61)
-Time: 0.0223851203918
-good Image pingvin92
-keypoints: 334, descriptors: (334, 61)
-Time: 0.024838924408
-good Image pingvin93
-keypoints: 252, descriptors: (252, 61)
-Time: 0.0201568603516
-good Image pingvin94
-keypoints: 556, descriptors: (556, 61)
-Time: 0.0197010040283
-good Image pingvin95
-keypoints: 282, descriptors: (282, 61)
-Time: 0.0228478908539
-good Image pingvin96
-keypoints: 86, descriptors: (86, 61)
-Time: 0.0190291404724
-good Image pingvin97
-keypoints: 1096, descriptors: (1096, 61)
-Time: 0.0249540805817
-good Image pingvin98
-keypoints: 969, descriptors: (969, 61)
-Time: 0.0265419483185
-good Image pingvin99
-keypoints: 264, descriptors: (264, 61)
-Time: 42
+keypoints: 500, descriptors: (500, 32)
+Time: 0.239256858826
 good Image utyug101
-keypoints: 34989, descriptors: (34989, 61)
-Time: 1.00371098518
+keypoints: 500, descriptors: (500, 32)
+Time: 0.221682071686
 good Image utyug102
-keypoints: 1049, descriptors: (1049, 61)
-Time: 0.203212976456
+keypoints: 494, descriptors: (494, 32)
+Time: 0.241712093353
 good Image utyug103
-keypoints: 4222, descriptors: (4222, 61)
-Time: 0.260527133942
+keypoints: 500, descriptors: (500, 32)
+Time: 0.227756023407
 good Image utyug104
-keypoints: 8917, descriptors: (8917, 61)
-Time: 0.36103105545
-bad Image utyug0
-keypoints: 7042, descriptors: (7042, 61)
-Time: 0.309844017029
-bad Image utyug1
-keypoints: 5480, descriptors: (5480, 61)
-Time: 0.298519134521
-bad Image utyug2
-keypoints: 3016, descriptors: (3016, 61)
-Time: 0.270699977875
-bad Image utyug3
-keypoints: 4236, descriptors: (4236, 61)
-Time: 0.362729072571
-bad Image utyug4
-keypoints: 2344, descriptors: (2344, 61)
-Time: 0.276219844818
-bad Image utyug5
-keypoints: 6351, descriptors: (6351, 61)
-Time: 0.413587093353
-bad Image utyug6
-keypoints: 2715, descriptors: (2715, 61)
-Time: 0.232192993164
-bad Image utyug7
-keypoints: 8606, descriptors: (8606, 61)
-Time: 0.437727928162
-bad Image utyug8
-keypoints: 8800, descriptors: (8800, 61)
-Time: 0.473856925964
-bad Image utyug9
-keypoints: 11508, descriptors: (11508, 61)
-Time: 0.690439939499
-bad Image utyug10
-keypoints: 3725, descriptors: (3725, 61)
-Time: 0.359472990036
-bad Image utyug11
-keypoints: 3509, descriptors: (3509, 61)
-Time: 0.327513933182
-bad Image utyug12
-keypoints: 2489, descriptors: (2489, 61)
-Time: 0.255850076675
-bad Image utyug13
-keypoints: 5221, descriptors: (5221, 61)
-Time: 0.309794902802
-bad Image utyug14
-keypoints: 3538, descriptors: (3538, 61)
-Time: 0.272655010223
-bad Image utyug15
-keypoints: 3800, descriptors: (3800, 61)
-Time: 0.29930305481
-bad Image utyug16
-keypoints: 3000, descriptors: (3000, 61)
-Time: 0.247108221054
-bad Image utyug17
-keypoints: 612, descriptors: (612, 61)
-Time: 0.174242973328
-0.0222179889679
-bad Image pingvin0
-keypoints: 912, descriptors: (912, 61)
-Time: 0.0280239582062
-bad Image pingvin1
-keypoints: 789, descriptors: (789, 61)
-Time: 0.025050163269
-bad Image pingvin2
-keypoints: 1156, descriptors: (1156, 61)
-Time: 0.0294570922852
-bad Image pingvin3
-keypoints: 1648, descriptors: (1648, 61)
-Time: 0.0262851715088
-bad Image pingvin4
-keypoints: 995, descriptors: (995, 61)
-Time: 0.0254480838776
-bad Image pingvin5
-keypoints: 1033, descriptors: (1033, 61)
-Time: 0.0243630409241
-bad Image pingvin6
-keypoints: 912, descriptors: (912, 61)
-Time: 0.0341980457306
-bad Image pingvin7
-keypoints: 789, descriptors: (789, 61)
-Time: 0.0355100631714
-bad Image pingvin8
-keypoints: 1733, descriptors: (1733, 61)
-Time: 0.0279099941254
-bad Image pingvin9
-keypoints: 2005, descriptors: (2005, 61)
-Time: 0.0284109115601
-bad Image pingvin10
-keypoints: 1114, descriptors: (1114, 61)
-Time: 0.0257449150085
-bad Image pingvin11
-keypoints: 1745, descriptors: (1745, 61)
-Time: 0.0271677970886
-bad Image pingvin12
-keypoints: 1443, descriptors: (1443, 61)
-Time: 0.0252242088318
-bad Image pingvin13
-keypoints: 1175, descriptors: (1175, 61)
-Time: 0.0236899852753
-bad Image pingvin14
-keypoints: 789, descriptors: (789, 61)
-Time: 0.0245568752289
-bad Image pingvin15
-keypoints: 1052, descriptors: (1052, 61)
-Time: 0.023628950119
-bad Image pingvin16
-keypoints: 1156, descriptors: (1156, 61)
-Time: 0.0284268856049
-bad Image pingvin17
-keypoints: 859, descriptors: (859, 61)
-Time: 0.0230028629303
-bad Image pingvin18
-keypoints: 1733, descriptors: (1733, 61)
-Time: 0.0322179794312
-bad Image pingvin19
-keypoints: 995, descriptors: (995, 61)
-Time: 0.023490190506
-bad Image pingvin20
-keypoints: 1316, descriptors: (1316, 61)
-Time: 0.0225279331207
-bad Image pingvin21
-keypoints: 1843, descriptors: (1843, 61)
-Time: 0.024178981781
-bad Image pingvin22
-keypoints: 1745, descriptors: (1745, 61)
-Time: 0.0255970954895
