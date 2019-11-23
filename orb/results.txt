@@ -1,0 +1,314 @@
+Results:
+good Image utyug0
+keypoints: 500, descriptors: (500, 32)
+Time: 5.16618084908
+good Image utyug1
+keypoints: 500, descriptors: (500, 32)
+Time: 29.4440610409
+good Image utyug2
+keypoints: 500, descriptors: (500, 32)
+Time: 1.41484498978
+good Image utyug3
+keypoints: 500, descriptors: (500, 32)
+Time: 6.37085413933
+good Image utyug4
+keypoints: 500, descriptors: (500, 32)
+Time: 7.94104385376
+good Image utyug5
+keypoints: 500, descriptors: (500, 32)
+Time: 17.783187151
+good Image utyug6
+keypoints: 500, descriptors: (500, 32)
+Time: 8.16052389145
+good Image utyug7
+keypoints: 500, descriptors: (500, 32)
+Time: 3.08362102509
+good Image utyug8
+keypoints: 500, descriptors: (500, 32)
+Time: 12.0159561634
+good Image utyug9
+keypoints: 356, descriptors: (356, 32)
+Time: 10.7053029537
+good Image utyug10
+keypoints: 500, descriptors: (500, 32)
+Time: 1.07394194603
+good Image utyug11
+keypoints: 500, descriptors: (500, 32)
+Time: 0.701236963272
+good Image utyug12
+keypoints: 500, descriptors: (500, 32)
+Time: 0.414849996567
+good Image utyug13
+keypoints: 500, descriptors: (500, 32)
+Time: 0.33022403717
+good Image utyug14
+keypoints: 500, descriptors: (500, 32)
+Time: 0.229933023453
+good Image utyug15
+keypoints: 256, descriptors: (256, 32)
+Time: 0.18501996994
+good Image utyug16
+keypoints: 500, descriptors: (500, 32)
+Time: 0.277225017548
+good Image utyug17
+keypoints: 500, descriptors: (500, 32)
+Time: 0.223134040833
+good Image utyug18
+keypoints: 500, descriptors: (500, 32)
+Time: 0.191613912582
+good Image utyug19
+keypoints: 500, descriptors: (500, 32)
+Time: 0.367154836655
+good Image utyug20
+keypoints: 469, descriptors: (469, 32)
+Time: 0.227986097336
+good Image utyug21
+keypoints: 500, descriptors: (500, 32)
+Time: 0.212781906128
+good Image utyug22
+keypoints: 500, descriptors: (500, 32)
+Time: 0.285279989243
+good Image utyug23
+keypoints: 500, descriptors: (500, 32)
+Time: 0.204063892365
+good Image utyug24
+keypoints: 500, descriptors: (500, 32)
+Time: 0.205978155136
+good Image utyug25
+keypoints: 500, descriptors: (500, 32)
+Time: 0.198199033737
+good Image utyug26
+keypoints: 404, descriptors: (404, 32)
+Time: 0.192471027374
+good Image utyug27
+keypoints: 500, descriptors: (500, 32)
+Time: 0.201577186584
+good Image utyug28
+keypoints: 500, descriptors: (500, 32)
+Time: 0.282115936279
+good Image utyug29
+keypoints: 500, descriptors: (500, 32)
+Time: 1.26805400848
+good Image utyug30
+keypoints: 500, descriptors: (500, 32)
+Time: 6.25861001015
+good Image utyug31
+keypoints: 500, descriptors: (500, 32)
+Time: 7.18804812431
+good Image utyug32
+keypoints: 500, descriptors: (500, 32)
+Time: 10.4783821106
+good Image utyug33
+keypoints: 500, descriptors: (500, 32)
+Time: 1.09492588043
+good Image utyug34
+keypoints: 500, descriptors: (500, 32)
+Time: 5.59393596649
+good Image utyug35
+keypoints: 500, descriptors: (500, 32)
+Time: 1.70747113228
+good Image utyug36
+keypoints: 500, descriptors: (500, 32)
+Time: 0.658946037292
+good Image utyug37
+keypoints: 500, descriptors: (500, 32)
+Time: 0.541639089584
+good Image utyug38
+keypoints: 500, descriptors: (500, 32)
+Time: 3.95631289482
+good Image utyug39
+keypoints: 500, descriptors: (500, 32)
+Time: 1.25982999802
+good Image utyug40
+keypoints: 500, descriptors: (500, 32)
+Time: 0.24569606781
+good Image utyug41
+keypoints: 500, descriptors: (500, 32)
+Time: 1.7955288887
+good Image utyug42
+keypoints: 500, descriptors: (500, 32)
+Time: 0.25456905365
+good Image utyug43
+keypoints: 500, descriptors: (500, 32)
+Time: 0.556811094284
+good Image utyug44
+keypoints: 500, descriptors: (500, 32)
+Time: 0.840749025345
+good Image utyug45
+keypoints: 500, descriptors: (500, 32)
+Time: 0.446716070175
+good Image utyug46
+keypoints: 500, descriptors: (500, 32)
+Time: 1.17900204659
+good Image utyug47
+keypoints: 500, descriptors: (500, 32)
+Time: 0.463376045227
+good Image utyug48
+keypoints: 500, descriptors: (500, 32)
+Time: 2.23993015289
+good Image utyug49
+keypoints: 500, descriptors: (500, 32)
+Time: 1.66239714622
+good Image utyug50
+keypoints: 500, descriptors: (500, 32)
+Time: 0.250968933105
+good Image utyug51
+keypoints: 500, descriptors: (500, 32)
+Time: 0.288996934891
+good Image utyug52
+keypoints: 500, descriptors: (500, 32)
+Time: 0.345950126648
+good Image utyug53
+keypoints: 500, descriptors: (500, 32)
+Time: 0.325539112091
+good Image utyug54
+keypoints: 335, descriptors: (335, 32)
+Time: 0.248224020004
+good Image utyug55
+keypoints: 500, descriptors: (500, 32)
+Time: 0.273286104202
+good Image utyug56
+keypoints: 500, descriptors: (500, 32)
+Time: 0.211196899414
+good Image utyug57
+keypoints: 500, descriptors: (500, 32)
+Time: 0.223845005035
+good Image utyug58
+keypoints: 500, descriptors: (500, 32)
+Time: 0.242280006409
+good Image utyug59
+keypoints: 500, descriptors: (500, 32)
+Time: 0.205122947693
+good Image utyug60
+keypoints: 500, descriptors: (500, 32)
+Time: 0.272011995316
+good Image utyug61
+keypoints: 500, descriptors: (500, 32)
+Time: 0.283881187439
+good Image utyug62
+keypoints: 500, descriptors: (500, 32)
+Time: 0.227739095688
+good Image utyug63
+keypoints: 500, descriptors: (500, 32)
+Time: 0.270931005478
+good Image utyug64
+keypoints: 500, descriptors: (500, 32)
+Time: 4.89817404747
+good Image utyug65
+keypoints: 500, descriptors: (500, 32)
+Time: 0.277068853378
+good Image utyug66
+keypoints: 500, descriptors: (500, 32)
+Time: 0.288397073746
+good Image utyug67
+keypoints: 500, descriptors: (500, 32)
+Time: 0.340946912766
+good Image utyug68
+keypoints: 500, descriptors: (500, 32)
+Time: 0.441386938095
+good Image utyug69
+keypoints: 500, descriptors: (500, 32)
+Time: 1.46163392067
+good Image utyug70
+keypoints: 500, descriptors: (500, 32)
+Time: 0.313431978226
+good Image utyug71
+keypoints: 500, descriptors: (500, 32)
+Time: 0.338660001755
+good Image utyug72
+keypoints: 500, descriptors: (500, 32)
+Time: 0.438759088516
+good Image utyug73
+keypoints: 500, descriptors: (500, 32)
+Time: 0.33827996254
+good Image utyug74
+keypoints: 500, descriptors: (500, 32)
+Time: 0.233868122101
+good Image utyug75
+keypoints: 500, descriptors: (500, 32)
+Time: 0.250448942184
+good Image utyug76
+keypoints: 500, descriptors: (500, 32)
+Time: 0.555469989777
+good Image utyug77
+keypoints: 500, descriptors: (500, 32)
+Time: 0.270988941193
+good Image utyug78
+keypoints: 500, descriptors: (500, 32)
+Time: 0.18989109993
+good Image utyug79
+keypoints: 500, descriptors: (500, 32)
+Time: 0.269733905792
+good Image utyug80
+keypoints: 500, descriptors: (500, 32)
+Time: 2.69165492058
+good Image utyug81
+keypoints: 500, descriptors: (500, 32)
+Time: 0.901520967484
+good Image utyug82
+keypoints: 500, descriptors: (500, 32)
+Time: 0.253709793091
+good Image utyug83
+keypoints: 500, descriptors: (500, 32)
+Time: 0.223927021027
+good Image utyug84
+keypoints: 500, descriptors: (500, 32)
+Time: 0.256105899811
+good Image utyug85
+keypoints: 500, descriptors: (500, 32)
+Time: 0.266035795212
+good Image utyug86
+keypoints: 500, descriptors: (500, 32)
+Time: 0.258167982101
+good Image utyug87
+keypoints: 500, descriptors: (500, 32)
+Time: 0.236289978027
+good Image utyug88
+keypoints: 184, descriptors: (184, 32)
+Time: 0.214714050293
+good Image utyug89
+keypoints: 500, descriptors: (500, 32)
+Time: 0.26583981514
+good Image utyug90
+keypoints: 500, descriptors: (500, 32)
+Time: 0.273851156235
+good Image utyug91
+keypoints: 500, descriptors: (500, 32)
+Time: 0.217639923096
+good Image utyug92
+keypoints: 500, descriptors: (500, 32)
+Time: 0.232480049133
+good Image utyug93
+keypoints: 500, descriptors: (500, 32)
+Time: 0.23955988884
+good Image utyug94
+keypoints: 470, descriptors: (470, 32)
+Time: 0.263993024826
+good Image utyug95
+keypoints: 500, descriptors: (500, 32)
+Time: 0.233685970306
+good Image utyug96
+keypoints: 500, descriptors: (500, 32)
+Time: 0.229342937469
+good Image utyug97
+keypoints: 500, descriptors: (500, 32)
+Time: 0.21430516243
+good Image utyug98
+keypoints: 500, descriptors: (500, 32)
+Time: 0.421221017838
+good Image utyug99
+keypoints: 344, descriptors: (344, 32)
+Time: 0.285055160522
+good Image utyug100
+keypoints: 500, descriptors: (500, 32)
+Time: 0.239256858826
+good Image utyug101
+keypoints: 500, descriptors: (500, 32)
+Time: 0.221682071686
+good Image utyug102
+keypoints: 494, descriptors: (494, 32)
+Time: 0.241712093353
+good Image utyug103
+keypoints: 500, descriptors: (500, 32)
+Time: 0.227756023407
+good Image utyug104
